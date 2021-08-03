@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rb-brandon
-- 👀 I’m interested in ... open source software, history, martial arts, and my lovely wife
+- 👀 I’m interested in ... open source software, history, martial arts, video games, and my lovely wife
 - 🌱 I’m currently learning ... webtech, *aaS models, encryption/security
 - 💞️ I’m looking to collaborate on ... interesting things!
 - 📫 How to reach me ... tbd
